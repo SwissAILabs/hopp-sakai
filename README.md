@@ -37,7 +37,7 @@ We believe the most transformative technology in human history should not be own
 | Closed development = hidden risks | 🔓 Transparent development, open safety review |
 | English-first, Western-centric | 🗣️ Multilingual from day one, every language matters |
 | Accessible only to the richest | ⚡ Efficient, runs on accessible hardware |
-| No democratic governance | 🗳️ Community-governed Swiss foundation |
+| No democratic governance | 🗳️ Community-governed NGO / Non-profit |
 | Single points of failure | 🤝 Multi-lab, multi-university collaboration |
 
 ---
