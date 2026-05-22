@@ -4,13 +4,13 @@
 
 ### Built together, for everyone.
 
-The world's first open-source, Swiss-neutral super intelligence project.
+The world's first open-source, neutral super intelligence project.
 Owned by no one. Built by everyone. For all of humanity.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Contributors](https://img.shields.io/badge/contributors-welcome-orange.svg)](CONTRIBUTING.md)
 [![Discord](https://img.shields.io/badge/Discord-join%20us-7289DA.svg)](https://discord.gg/hopp-sakai)
-[![Swiss Made](https://img.shields.io/badge/Swiss%20Made-🇨🇭-red.svg)](https://hopp-sakai.ch)
+[![Made in CH](https://img.shields.io/badge/Swiss%20Made-🇨🇭-red.svg)](https://hopp-sakai.ch)
 
 [Website](https://hopp-sakai.ch) · [Documentation](docs/) · [Contributing](CONTRIBUTING.md) · [Charter](CHARTER.md) · [Roadmap](ROADMAP.md)
 
@@ -20,7 +20,7 @@ Owned by no one. Built by everyone. For all of humanity.
 
 ## 🌍 What is hopp-sakai?
 
-**hopp-sakai** is an open-source initiative to build a neutral, safe, and accessible super intelligence – stewarded by a Swiss non-profit foundation and developed collaboratively by researchers, engineers, and contributors from around the world.
+**hopp-sakai** is an open-source initiative to build a neutral, safe, and accessible super intelligence – stewarded by a non-profit foundation and developed collaboratively by researchers, engineers, and contributors from around the world.
 
 We believe the most transformative technology in human history should not be owned by any single corporation, government, or individual. It should be transparent, safe, and available to everyone.
 
