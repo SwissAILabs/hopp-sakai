@@ -44,7 +44,7 @@ We believe the most transformative technology in human history should not be own
 
 ## 🏛️ Governance
 
-hopp-sakai is stewarded by the **Hopp-Sakai Foundation**, a Swiss non-profit operating under Swiss law.
+hopp-sakai is a non-profit community.
 
 **Key rules:**
 - No single entity (company, government, or individual) can hold a controlling position
